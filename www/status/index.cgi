@@ -54,7 +54,7 @@ print <<-EOF
     <a href="/">
       <img alt="Whimsy logo" title="Whimsy logo" src="../whimsy.svg" class="logo"/>
     </a>
-    <h1>Whimsy Status for #{hostname}</h1>
+    <h1>Whimsy Status for #{hostname} - (temp test)</h1>
 
     <div class="list-group list-group-root well">
       Loading...
